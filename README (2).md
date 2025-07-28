@@ -93,13 +93,3 @@ Two prompt modes are supported:
 Do **NOT** upload your API key to public GitHub repositories. Use `.env` or Colab secrets when deploying for real use.
 
 ---
-
-## License
-
-MIT License - feel free to use, share, and improve!
-
----
-
-## Author
-
-Built by [Your Name] – powered by Google Gemini & LangChain.
